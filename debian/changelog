@@ -1,0 +1,5 @@
+lc-consul (0.7.1-1+lc2) stable; urgency=medium
+
+   * New release.  See git commit log for more information.
+
+ -- Alexander Guy <alexander.guy@lightcrest.com>  Mon, 14 Nov 2016 14:27:11 -0800

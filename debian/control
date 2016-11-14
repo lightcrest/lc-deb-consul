@@ -1,0 +1,13 @@
+Source: lc-consul
+Maintainer: Alexander Guy <alexander.guy@lightcrest.com>
+Section: utils
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9), dh-systemd (>= 1.5), dpkg-dev (>= 1.7), curl
+
+Package: consul
+Architecture: any
+Depends: ${misc:Depends}
+Description: Lightcrest's Consul Package
+ This is a package containing Lightcrest's build of consul.  For now, this
+ build of consul will be coming from the upstream binary builds at Hashicorp.

@@ -14,3 +14,4 @@ install:
 	echo $(ARCHIVE_FNAME)
 	mkdir -p $(DESTDIR)/usr/bin
 	unzip $(ARCHIVE_FNAME) -d $(DESTDIR)/usr/bin
+	cp -R etc $(DESTDIR)/.
