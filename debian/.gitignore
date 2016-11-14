@@ -1,0 +1,6 @@
+*.debhelper
+*.log
+consul
+consul.substvars
+files
+debhelper-build-stamp
