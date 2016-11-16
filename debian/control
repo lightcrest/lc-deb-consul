@@ -1,4 +1,4 @@
-Source: lc-consul
+Source: lc-deb-consul
 Maintainer: Alexander Guy <alexander.guy@lightcrest.com>
 Section: utils
 Priority: optional

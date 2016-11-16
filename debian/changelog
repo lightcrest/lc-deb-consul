@@ -1,4 +1,4 @@
-lc-consul (0.7.1-1+lc2) stable; urgency=medium
+lc-deb-consul (0.7.1-1+lc2) stable; urgency=medium
 
    * New release.  See git commit log for more information.
 
